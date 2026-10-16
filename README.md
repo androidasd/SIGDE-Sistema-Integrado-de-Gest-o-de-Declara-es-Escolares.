@@ -1,0 +1,1 @@
+# SIGDE-Sistema-Integrado-de-Gest-o-de-Declara-es-Escolares.
